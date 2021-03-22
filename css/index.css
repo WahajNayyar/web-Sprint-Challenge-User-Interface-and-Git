@@ -92,6 +92,12 @@ p {
     margin: 0 auto;
 }
 
+.about-page{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
