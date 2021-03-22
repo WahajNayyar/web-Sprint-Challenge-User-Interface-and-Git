@@ -56,6 +56,27 @@ html, body {
     font-family: 'Roboto', sans-serif;
 }
 
+header nav{
+    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-around;
+}
+
+header nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.jumboTron{
+    margin-bottom: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
 h1, h2, h3, h4, h5 {
     font-size: 18px;
     margin-bottom: 15px;
